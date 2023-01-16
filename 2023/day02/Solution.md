@@ -1,4 +1,4 @@
-# Day2 Tasks
+# Day 2 Tasks
 
 Linux command to
 
