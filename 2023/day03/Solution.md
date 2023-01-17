@@ -1,5 +1,7 @@
 Day 3 Task: Basic Linux Commands
 
+Day 3 article : [Medium](https://medium.com/@rejani2906/day-3-basics-of-linux-289bcb3717f4)
+
 1. To view what's written in a file.
 
    `cat` -> Display content of a file
