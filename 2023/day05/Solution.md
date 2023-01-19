@@ -1,6 +1,6 @@
 ### Tasks
 
-Day 5 article : [Medium]()
+Day 5 article : [Medium](https://medium.com/@rejani2906/day-5-advanced-linux-shell-scripting-266eee0c9722)
 
 1. Shell script to dynamically create directories
 
