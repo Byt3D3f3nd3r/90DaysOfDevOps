@@ -1,25 +1,25 @@
 ### Tasks
 
-Day 6 article : [Medium]()
+Day 6 article : [Medium](https://medium.com/@rejani2906/day-6-linux-file-permissions-and-access-control-lists-8abfc6182ebc)
 
 1. Create a simple file and do `ls -ltr` to see the details of the files
 
    ![Before](/2023/day06/Screenshots/without-perm.png)
 
-    As a task, change the user permissions of the file and note the changes after `ls -ltr`
+   As a task, change the user permissions of the file and note the changes after `ls -ltr`
 
-    ![After](/2023/day06/Screenshots/with-perm.png)
+   ![After](/2023/day06/Screenshots/with-perm.png)
 
 2. Write an article about File Permissions ✅
 
 3. 'getfacl' command
 
-    ![getfacl](/2023/day06/Screenshots/getfacl.png)
-    
-    'setfacl' command
+   ![getfacl](/2023/day06/Screenshots/getfacl.png)
 
-    ![setfacl](/2023/day06/Screenshots/setfacl.png)
+   'setfacl' command
 
-    Remove all entries from a particular ACL
+   ![setfacl](/2023/day06/Screenshots/setfacl.png)
 
-    ![setfacl-b](/2023/day06/Screenshots/setfacl-b.png)
+   Remove all entries from a particular ACL
+
+   ![setfacl-b](/2023/day06/Screenshots/setfacl-b.png)
