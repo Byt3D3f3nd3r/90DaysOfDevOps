@@ -1,6 +1,6 @@
 ### Tasks
 
-Day 8 article : [Medium]()
+Day 8 article : [Medium](https://medium.com/@rejani2906/day-8-basic-git-github-for-devops-engineers-bd88f5f6f08e)
 
 ## Task:
 
