@@ -42,7 +42,7 @@ Learn how to use the docker-compose.yml file, to set up the environment, configu
 
 ![](/2023/day18/Screenshots/docker-stop.png)
 
-![](/2023/day18/Screenshots/socker-start.png)
+![](/2023/day18/Screenshots/docker-start.png)
 
 - Use the docker rm command to remove the container when you're done.
 
